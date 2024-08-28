@@ -1,0 +1,99 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.square {
+  height: 470px;
+  width: 600px;
+  margin: 100px auto;
+  padding: 70px 0;
+  backdrop-filter: blur(20px);
+  box-shadow: 0px 1px 2px;
+  border-radius: 5px;
+}
+
+.tagline{
+    font-size: 15px;
+}
+.logo {
+    margin-top: -45;
+    margin-bottom: 10;
+    height: 120;
+    width: 120;
+}
+.forPas {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-left: 155px;
+    color: #000
+}
+.forjoin {
+    margin-top: -70px;
+    font-size: 15px;
+    color: #000
+}
+.label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50;
+    font-weight: 600;
+    color: #000000;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: -10;
+
+}
+.label2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align:left;
+}
+.logbutton {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25;
+    font-weight: 600;
+    padding: 10px;
+    margin-top: 5px;
+    width: 50%;
+    margin-bottom: 20px;
+    border-radius: 11px;
+    background-color: #e2e2e2 ;
+    border-color: #e2e2e2;
+}
+
+.another {
+    font-weight: 600;
+    padding: 10px;
+    width: 25%;
+    font-size: 10;
+}
+.input1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 70%;
+    height: 10%;
+    border-radius: 13px;
+    border-color: rgb(218, 218, 218);
+
+}
+.input2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 70%;
+    height: 10%;
+    margin-top: 20px;
+    border-radius: 13px;
+    border-color: rgb(218, 218, 218);
+}
+.rem   {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #000000;
+}
+body {
+  
+    background-color: #f4f4f5;      
+}
+
